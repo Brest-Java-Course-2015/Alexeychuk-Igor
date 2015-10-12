@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app-core/app-core.iml" filepath="$PROJECT_DIR$/app-core/app-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-dao/app-dao.iml" filepath="$PROJECT_DIR$/app-dao/app-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-dao-api/app-dao-api.iml" filepath="$PROJECT_DIR$/app-dao-api/app-dao-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usermanagement.iml" filepath="$PROJECT_DIR$/usermanagement.iml" />
       <module fileurl="file://$PROJECT_DIR$/usermanagment.iml" filepath="$PROJECT_DIR$/usermanagment.iml" />
     </modules>
   </component>
